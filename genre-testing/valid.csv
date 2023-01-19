@@ -1,0 +1,1029 @@
+,song_title,genre,given-genre,ml,result
+2,Cheating on You,dance pop,pop,pop,True
+3,CHERRY,k-pop,k-pop,pop,False
+39,U - English Version,japanese electropop,pop,rock,False
+41,BOP BOP!,k-pop,k-pop,k-pop,True
+49,Spider,k-pop,k-pop,pop,False
+87,3,dance pop,pop,k-pop,False
+93,Baby,canadian pop,pop,pop,True
+99,Big Girls Don't Cry (Personal),dance pop,pop,pop,True
+112,Catch My Breath,dance pop,pop,pop,True
+113,Circus,dance pop,pop,pop,True
+117,Crazy In Love (feat. Jay-Z),dance pop,pop,hip hop,False
+122,Disturbia,barbadian pop,pop,pop,True
+128,F**kin' Perfect - Radio Edit,dance pop,pop,pop,True
+129,Fallout,canadian rock,rock,pop,False
+143,"Hey, Soul Sister",dance pop,pop,pop,True
+145,Hold It Against Me,dance pop,pop,pop,True
+154,Jet Lag (feat. Natasha Bedingfield),canadian pop punk,pop,pop,True
+154,Jet Lag (feat. Natasha Bedingfield),canadian pop punk,punk,pop,False
+175,Fall 'N' Roll,indie game soundtrack,indie,punk,False
+207,Introduction,indie game soundtrack,indie,pop,False
+237,Main Theme of Final Fantasy VII (Final Fantasy VII),anime score,anime,classical,False
+243,One​-​Winged Angel (Final Fantasy VII),anime score,anime,pop,False
+270,Farewell Theme (Var. 1990),greek contemporary classical,classical,classical,True
+301,Love Blossoms,bow pop,pop,punk,False
+303,Sugar,alternative metal,alternative,k-pop,False
+303,Sugar,alternative metal,metal,k-pop,False
+314,Safflower Picking in Rain,anime score,anime,classical,False
+338,The Man with the Machine Gun,anime score,anime,jazz,False
+355,Allegro Molto Vivace (Piano Concerto in E Minor No. 1) - Electro Swing Mix,classical,classical,alternative,False
+432,Built on Bones,indie folk,indie,pop,False
+436,Creep,alternative r&b,alternative,pop,False
+436,Creep,alternative r&b,alternative,pop,False
+436,Creep,alternative r&b,r&b,pop,False
+436,Creep,alternative r&b,r&b,pop,False
+439,The Devil Is All Around,alternative country,alternative,pop,False
+439,The Devil Is All Around,alternative country,country,pop,False
+443,Hallucinations,art rock,rock,rock,True
+450,Mean-Hearted Woman,alternative americana,alternative,pop,False
+452,Diggin A Grave,alternative country,alternative,corrido,False
+452,Diggin A Grave,alternative country,country,corrido,False
+463,Friend of the Devil,modern folk rock,rock,punk,False
+465,Feast Of The Dead,alternative country,alternative,pop,False
+465,Feast Of The Dead,alternative country,country,pop,False
+472,Muddy Water,edmonton indie,indie,pop,False
+486,Wolf Like Me ft. Shovels & Rope,alternative country,alternative,pop,False
+486,Wolf Like Me ft. Shovels & Rope,alternative country,country,pop,False
+496,Thriller,pop,pop,pop,True
+500,Los locos adams,mexican rock-and-roll,rock,rock,True
+511,El Esqueleto,mexican rock-and-roll,rock,pop,False
+522,bad guy,art pop,pop,hip hop,False
+524,Mátenme Porque Me Muero,latin alternative,alternative,pop,False
+527,The Twilight Zone,rock-and-roll,rock,rock,True
+538,El Esqueleto,latin alternative,alternative,rock,False
+559,Tu Perro Se Murió,cdmx indie,indie,rock,False
+589,Naach Meri Rani,desi hip hop,hip hop,hip hop,True
+591,Radhe Radhe,desi pop,pop,pop,True
+594,She Move It Like,desi hip hop,hip hop,pop,False
+600,Baaki Baatein Peene Baad (Shots) (feat. Badshah),desi hip hop,hip hop,pop,False
+606,All I Want for Christmas Is You,dance pop,pop,rock,False
+607,Underneath the Tree,dance pop,pop,pop,True
+608,Last Christmas - Remastered,dance pop,pop,pop,True
+645,"Santa Claus Is Comin' to Town - Live at C.W. Post College, Greenvale, NY - December 1975",classic rock,rock,rock,True
+647,My Kind Of Present,dance pop,pop,corrido,False
+651,Thank You Note,modern indie pop,indie,pop,False
+651,Thank You Note,modern indie pop,pop,pop,True
+700,0321,chinese viral pop,pop,pop,True
+702,刻在我心底的名字 (Your Name Engraved Herein) - 電影<刻在你心底的名字>主題曲,chinese indie,indie,pop,False
+709,你不屬於我 - 《比悲傷更悲傷的故事》影集版片尾曲,mandopop,pop,pop,True
+717,愛上你算我賤,mandopop,pop,pop,True
+729,難道喜歡處女座,cantopop,pop,corrido,False
+736,思念即地獄,cantopop,pop,pop,True
+739,時光倒流一句話,cantopop,pop,pop,True
+756,濛,c-pop,pop,pop,True
+760,好心分手,c-pop,pop,pop,True
+765,垃圾,c-pop,pop,pop,True
+770,防不勝防,c-pop,pop,pop,True
+779,沙龍,c-pop,pop,pop,True
+797,尋找白金漢,cantopop,pop,pop,True
+858,Mala,latin pop,pop,pop,True
+870,Decisiones,latin jazz,jazz,filmi,False
+915,Cuenta Conmigo,puerto rican pop,pop,corrido,False
+1003,Gifted (feat. Roddy Ricch),dmv rap,rap,pop,False
+1018,Life is Wet,korean r&b,r&b,pop,False
+1022,So Fast,melodic rap,rap,pop,False
+1035,Out On Bail,cali rap,rap,rap,True
+1040,Hate On Me,cali rap,rap,hip hop,False
+1042,Said N Done,atl hip hop,hip hop,hip hop,True
+1044,Many Men,atl hip hop,hip hop,punk,False
+1048,Bad Vibe (feat. A Boogie Wit da Hoodie & 2 Chainz),melodic rap,rap,hip hop,False
+1051,Nasty,dirty south rap,rap,pop,False
+1055,RedBone,atl hip hop,hip hop,hip hop,True
+1059,Our Time,melodic rap,rap,rap,True
+1060,Low Life (feat. The Weeknd),atl hip hop,hip hop,pop,False
+1061,Wasted,alternative r&b,alternative,pop,False
+1061,Wasted,alternative r&b,r&b,pop,False
+1076,Time Will Tell,dance pop,pop,pop,True
+1084,Hell Rain (feat. Lil Wayne and HoodyBaby),melodic rap,rap,pop,False
+1087,Hidden Nights,bc underground hip hop,hip hop,hip hop,True
+1088,W.N.M,bc underground hip hop,hip hop,hip hop,True
+1090,Replace Me (feat. Big Sean & Don Toliver),conscious hip hop,hip hop,pop,False
+1094,No Fear,asian american hip hop,hip hop,pop,False
+1099,一途,j-pop,pop,pop,True
+1106,踊,japanese teen pop,pop,k-pop,False
+1178,Into You (feat. Ashanti),dance pop,pop,pop,True
+1185,Country Grammar (Hot Shit),dance pop,pop,hip hop,False
+1190,Always On Time,dance pop,pop,hip hop,False
+1200,Mad,dance pop,pop,pop,True
+1202,Lie To Me,dance pop,pop,pop,True
+1204,Go On Girl,dance pop,pop,pop,True
+1223,If We Were A Movie,dance pop,pop,pop,True
+1230,Beautiful Soul,dance pop,pop,pop,True
+1232,You'll Always Find Your Way Back Home,dance pop,pop,pop,True
+1237,We Belong Together,dance pop,pop,pop,True
+1240,Big Pimpin' / Papercut,east coast hip hop,hip hop,pop,False
+1259,Road Head,art pop,pop,rock,False
+1281,Old Yellow Bricks,garage rock,rock,pop,False
+1299,Sherlock (Clue + Note),k-pop,k-pop,k-pop,True
+1315,会わないつもりの、元気でね,anime,anime,pop,False
+1325,少年少女,j-rock,rock,anime,False
+1331,世界は恋に落ちている,anime,anime,pop,False
+1349,紅蓮華,anime,anime,metal,False
+1350,シュガーソングとビターステップ,anime,anime,pop,False
+1365,DREAM SOLISTER,anime,anime,anime,True
+1370,ambiguous,anime,anime,anime,True
+1381,アイのシナリオ,anime,anime,anime,True
+1389,LIFE,japanese pop rap,pop,pop,True
+1389,LIFE,japanese pop rap,rap,pop,False
+1398,目覚めの唄,anime,anime,alternative,False
+1400,unlasting,anime,anime,pop,False
+1404,ハレ晴レユカイ,anime,anime,pop,False
+1407,Kuchizuke Diamond,anime rock,anime,pop,False
+1407,Kuchizuke Diamond,anime rock,rock,pop,False
+1410,RESISTER,anime,anime,alternative,False
+1413,"Piano Concerto No. 2 in C Minor, Op. 18: I. Moderato",classical,classical,classical,True
+1425,"Poeme in F-Sharp Major, Op. 32, No. 1: Andante cantabile - Remastered",early modern classical,classical,classical,True
+1440,"Ave Maria, S. 558/12",classical,classical,classical,True
+1442,"Piano Concerto No. 1 in E Minor, Op. 11: I. Allegro maestoso",classical,classical,classical,True
+1451,Libertango,classical piano trio,classical,classical,True
+1472,Gymnopédie No. 1,classical,classical,classical,True
+1481,"Beethoven: Symphony No. 7 in A Major, Op. 92: II. Allegretto",classical,classical,classical,True
+1498,LIKEY,k-pop,k-pop,k-pop,True
+1505,Talk that Talk,k-pop,k-pop,k-pop,True
+1531,Midnight Pretenders,classic city pop,pop,rock,False
+1536,Plastic Love,classic city pop,pop,rock,False
+1541,Night Train,k-indie,indie,corrido,False
+1547,Deep,pop,pop,r&b,False
+1571,OOOUUU,alternative r&b,alternative,hip hop,False
+1571,OOOUUU,alternative r&b,r&b,hip hop,False
+1604,90210 (feat. Kacy Hill),rap,rap,pop,False
+1607,Uber Everywhere (feat. Travis Scott),atl hip hop,hip hop,hip hop,True
+1608,infinity (888) - feat. Joey Bada$$,emo rap,rap,rap,True
+1613,through the late night,rap,rap,k-pop,False
+1621,Planez,chicago rap,rap,r&b,False
+1622,Swang,hip hop,hip hop,pop,False
+1640,LOCO,k-pop girl group,k-pop,k-pop,True
+1642,SHOOT!,k-pop girl group,k-pop,corrido,False
+1662,Some,k-pop,k-pop,corrido,False
+1663,Ordinary Day,k-pop,k-pop,pop,False
+1674,SMILEY(Feat. BIBI),k-pop,k-pop,pop,False
+1679,PTT (Paint The Town),k-pop,k-pop,k-pop,True
+1682,LOVE DIVE,k-pop girl group,k-pop,k-pop,True
+1683,I Need U,k-pop,k-pop,alternative,False
+1686,Stay Alive (Prod. SUGA of BTS),k-pop,k-pop,pop,False
+1689,Overdose,k-pop,k-pop,k-pop,True
+1697,Evening (feat. BIG Naughty),k-pop,k-pop,pop,False
+1699,FOREVER 1,k-pop,k-pop,k-pop,True
+1710,Secret Story of the Swan,k-pop,k-pop,k-pop,True
+1714,AYAYAYA,k-pop,k-pop,k-pop,True
+1727,Love Runs Out,piano rock,rock,pop,False
+1736,Animals,pop,pop,rock,False
+1744,Payphone,pop,pop,pop,True
+1748,Rather Be (feat. Jess Glynne),dance pop,pop,pop,True
+1759,Mr. Saxobeat,dance pop,pop,pop,True
+1777,TiK ToK,dance pop,pop,k-pop,False
+1789,Blue Christmas,rock-and-roll,rock,pop,False
+1793,The Little Drummer Boy,arkansas country,country,filmi,False
+1798,Frosty the Snowman,classic country pop,country,corrido,False
+1798,Frosty the Snowman,classic country pop,pop,corrido,False
+1822,Pretty Paper,classic country pop,country,pop,False
+1822,Pretty Paper,classic country pop,pop,pop,True
+1845,Silent Night,arkansas country,country,pop,False
+1895,The Greatest Gift,baroque pop,pop,jazz,False
+1897,City of Roses,baroque pop,pop,pop,True
+1906,Tree by the River,chamber pop,pop,pop,True
+1916,10 Feet Tall,bedroom pop,pop,rock,False
+1917,I'll Make Cereal,bedroom pop,pop,pop,True
+1918,Pigeon,bedroom pop,pop,pop,True
+1934,Please Never Fall in Love Again,indie pop,indie,pop,False
+1934,Please Never Fall in Love Again,indie pop,pop,pop,True
+1940,Streetcar,canadian contemporary r&b,r&b,pop,False
+1946,Naked as We Came,chamber pop,pop,rock,False
+1948,Sunset Soon Forgotten,chamber pop,pop,pop,True
+1973,Panic Attack in My Local KFC,indie pop,indie,pop,False
+1973,Panic Attack in My Local KFC,indie pop,pop,pop,True
+1976,Old Fashioned,pop,pop,pop,True
+1980,Lost in You,indie pop,indie,corrido,False
+1980,Lost in You,indie pop,pop,corrido,False
+1981,My Favourite Clothes,australian r&b,r&b,pop,False
+1982,Daydreaming,chill r&b,r&b,pop,False
+1987,Juliet,bedroom pop,pop,rock,False
+1993,Best Friend,bedroom pop,pop,pop,True
+1994,Sunset Wife,modern indie pop,indie,rock,False
+1994,Sunset Wife,modern indie pop,pop,rock,False
+1999,8TEEN,pop,pop,pop,True
+2059,DALLA DALLA,k-pop girl group,k-pop,pop,False
+2068,微かなカオリ,bitpop,pop,pop,True
+2071,Space Girl,bedroom pop,pop,pop,True
+2072,I Wish I Knew Natalie Portman,alternative hip hop,alternative,hip hop,False
+2072,I Wish I Knew Natalie Portman,alternative hip hop,hip hop,hip hop,True
+2089,Groovy!,classic j-pop,pop,pop,True
+2092,Way Back Home,k-pop,k-pop,pop,False
+2095,Something Good,indie rock,indie,pop,False
+2095,Something Good,indie rock,rock,pop,False
+2101,I Thought It Was You,classic city pop,pop,bollywood,False
+2104,気分上々↑↑,j-pop,pop,pop,True
+2112,Billie Bossa Nova,art pop,pop,pop,True
+2113,嫉妬されるべき人生,anime,anime,rock,False
+2121,ドラマチック,j-pop,pop,pop,True
+2129,Happier Than Ever - Edit,art pop,pop,alternative,False
+2139,確かな午後,japanese indie pop,indie,pop,False
+2139,確かな午後,japanese indie pop,pop,pop,True
+2145,HEART STATION,anime,anime,pop,False
+2149,drug,japanese bedroom pop,pop,pop,True
+2178,ミスター,j-pop,pop,k-pop,False
+2204,Are You Bored Yet? (feat. Clairo),indie pop,indie,pop,False
+2204,Are You Bored Yet? (feat. Clairo),indie pop,pop,pop,True
+2207,Uh-Oh,japanese alternative pop,alternative,hip hop,False
+2207,Uh-Oh,japanese alternative pop,pop,hip hop,False
+2211,motive (with Doja Cat),dance pop,pop,pop,True
+2225,エスパー,japanese indie rock,indie,pop,False
+2225,エスパー,japanese indie rock,rock,pop,False
+2229,Epilogue: Young Forever,k-pop,k-pop,hip hop,False
+2231,気分じゃないの (Not In The Mood),anime,anime,rock,False
+2235,カナデアイ,anime rock,anime,anime,True
+2235,カナデアイ,anime rock,rock,anime,False
+2242,Mela!,j-pop,pop,k-pop,False
+2262,I Need U,k-pop,k-pop,pop,False
+2272,Like Ooh-Ahh,k-pop,k-pop,k-pop,True
+2284,Blow,dance pop,pop,pop,True
+2291,Spinnin,pop rap,pop,pop,True
+2291,Spinnin,pop rap,rap,pop,False
+2299,Playground (from the series Arcane League of Legends) - Baby Tate Remix,alternative r&b,alternative,pop,False
+2299,Playground (from the series Arcane League of Legends) - Baby Tate Remix,alternative r&b,r&b,pop,False
+2303,Tek It - Sped Up,brooklyn indie,indie,metal,False
+2334,KILL CUPID,sad rap,rap,hip hop,False
+2337,You,dance pop,pop,pop,True
+2356,Bones,modern rock,rock,k-pop,False
+2367,Surround Sound (feat. 21 Savage & Baby Tate),hip hop,hip hop,rap,False
+2370,Our Time,melodic rap,rap,rap,True
+2374,Simple Man,alternative r&b,alternative,r&b,False
+2374,Simple Man,alternative r&b,r&b,r&b,True
+2377,Magnetic,alternative r&b,alternative,r&b,False
+2377,Magnetic,alternative r&b,r&b,r&b,True
+2380,here with me,chill r&b,r&b,pop,False
+2383,"Balance (feat. Akemi Fox, Georgie Sweet)",alternative r&b,alternative,hip hop,False
+2383,"Balance (feat. Akemi Fox, Georgie Sweet)",alternative r&b,r&b,hip hop,False
+2386,"I Shine, U Shine",alternative r&b,alternative,hip hop,False
+2386,"I Shine, U Shine",alternative r&b,r&b,hip hop,False
+2392,Set Him Up (feat. Ari Lennox),pop r&b,pop,hip hop,False
+2392,Set Him Up (feat. Ari Lennox),pop r&b,r&b,hip hop,False
+2399,From My Heart And My Soul (feat. Tarriona Tank Ball & Phoelix),alternative r&b,alternative,pop,False
+2399,From My Heart And My Soul (feat. Tarriona Tank Ball & Phoelix),alternative r&b,r&b,pop,False
+2401,Whisper (Want My Luv),alternative r&b,alternative,pop,False
+2401,Whisper (Want My Luv),alternative r&b,alternative,pop,False
+2401,Whisper (Want My Luv),alternative r&b,r&b,pop,False
+2401,Whisper (Want My Luv),alternative r&b,r&b,pop,False
+2409,Colours,indie r&b,indie,rap,False
+2409,Colours,indie r&b,r&b,rap,False
+2411,24hrs,alternative r&b,alternative,pop,False
+2411,24hrs,alternative r&b,r&b,pop,False
+2422,Cherry Blossom,alternative r&b,alternative,pop,False
+2422,Cherry Blossom,alternative r&b,r&b,pop,False
+2424,With You,pinoy indie,indie,pop,False
+2433,Take Me Away (feat. EARTHGANG),alternative r&b,alternative,rap,False
+2433,Take Me Away (feat. EARTHGANG),alternative r&b,r&b,rap,False
+2455,Cheesin',indie r&b,indie,corrido,False
+2455,Cheesin',indie r&b,r&b,corrido,False
+2467,DYING 4 YOUR LOVE,alternative r&b,alternative,r&b,False
+2467,DYING 4 YOUR LOVE,alternative r&b,r&b,r&b,True
+2471,Satisfied,pop r&b,pop,pop,True
+2471,Satisfied,pop r&b,r&b,pop,False
+2472,Baby Powder,alternative r&b,alternative,pop,False
+2472,Baby Powder,alternative r&b,r&b,pop,False
+2473,FFVII REMAKE: 爆破ミッション (Bombing Mission),anime score,anime,punk,False
+2493,FFVII REMAKE: 伍番魔晄炉の罠 (A Trap Is Sprung),anime score,anime,punk,False
+2494,FFVII REMAKE: エアバスター (The Airbuster),anime score,anime,anime,True
+2529,Cancer,alternative metal,alternative,alternative,True
+2529,Cancer,alternative metal,metal,alternative,False
+2540,Parade,metalcore,metal,metal,True
+2542,Up All Night,alternative metal,alternative,alternative,True
+2542,Up All Night,alternative metal,metal,alternative,False
+2544,Same Direction,alternative metal,alternative,metal,False
+2544,Same Direction,alternative metal,metal,metal,True
+2563,Fallback,alternative metal,alternative,pop,False
+2563,Fallback,alternative metal,metal,pop,False
+2565,Jack Of Diamonds,alternative metal,alternative,metal,False
+2565,Jack Of Diamonds,alternative metal,metal,metal,True
+2566,Take My Hand,canadian pop punk,pop,metal,False
+2566,Take My Hand,canadian pop punk,punk,metal,False
+2574,Drop Dead!,german metal,metal,metal,True
+2575,Miracle,candy pop,pop,pop,True
+2579,The Pretender,alternative metal,alternative,metal,False
+2579,The Pretender,alternative metal,metal,metal,True
+2582,Break,alternative metal,alternative,pop,False
+2582,Break,alternative metal,metal,pop,False
+2591,Scream,alternative metal,alternative,metal,False
+2591,Scream,alternative metal,metal,metal,True
+2600,One Day Remains,alternative metal,alternative,metal,False
+2600,One Day Remains,alternative metal,alternative,metal,False
+2600,One Day Remains,alternative metal,metal,metal,True
+2600,One Day Remains,alternative metal,metal,metal,True
+2612,Lifeline,alternative metal,alternative,alternative,True
+2612,Lifeline,alternative metal,metal,alternative,False
+2618,Attack,modern rock,rock,anime,False
+2619,How Can I Live,alternative metal,alternative,metal,False
+2619,How Can I Live,alternative metal,metal,metal,True
+2642,Delta Protocol,cyberpunk,punk,punk,True
+2643,Analog Nights,cyberpunk,punk,punk,True
+2651,Navigator,cyberpunk,punk,punk,True
+2661,Tears in the Rain,cyberpunk,punk,punk,True
+2664,Night Prowl,cyberpunk,punk,punk,True
+2666,Power Driver,cyberpunk,punk,punk,True
+2667,Maniac,cyberpunk,punk,rock,False
+2674,Vietrom,cyberpunk,punk,rock,False
+2681,Perturbator's Theme,cyberpunk,punk,anime,False
+2682,Raw Power,cyberpunk,punk,punk,True
+2687,Humans Are Such Easy Prey,cyberpunk,punk,punk,True
+2699,Technoir (feat. Noir Deco),cyberpunk,punk,punk,True
+2701,Deviance (feat. Arcade High),cyberpunk,punk,pop,False
+2704,The Price of Failure,cyberpunk,punk,pop,False
+2710,Vengeance (The Return of the Night Driving Avenger) [Bonus Track],cyberpunk,punk,punk,True
+2712,Sexualizer (feat. Flash Arnold),cyberpunk,punk,punk,True
+2720,Dirty Rain,alternative country,alternative,pop,False
+2720,Dirty Rain,alternative country,country,pop,False
+2724,Do I Wait,alternative country,alternative,pop,False
+2724,Do I Wait,alternative country,country,pop,False
+2726,Invisible Riverside,alternative country,alternative,pop,False
+2726,Invisible Riverside,alternative country,country,pop,False
+2732,Breakdown Into The Resolve,alternative country,alternative,alternative,True
+2732,Breakdown Into The Resolve,alternative country,country,alternative,False
+2733,Dear Candy,alternative country,alternative,country,False
+2733,Dear Candy,alternative country,country,country,True
+2735,Ultraviolet Light,alternative country,alternative,pop,False
+2735,Ultraviolet Light,alternative country,country,pop,False
+2737,Lovely And Blue,alternative country,alternative,country,False
+2737,Lovely And Blue,alternative country,country,country,True
+2739,Kisses Start Wars,alternative country,alternative,rock,False
+2739,Kisses Start Wars,alternative country,country,rock,False
+2740,The Crystal Skull,alternative country,alternative,pop,False
+2740,The Crystal Skull,alternative country,country,pop,False
+2742,No,alternative country,alternative,alternative,True
+2742,No,alternative country,country,alternative,False
+2743,Numbers,alternative country,alternative,rock,False
+2743,Numbers,alternative country,country,rock,False
+2746,Sewers At The Bottom Of The Wishing Well,alternative country,alternative,alternative,True
+2746,Sewers At The Bottom Of The Wishing Well,alternative country,country,alternative,False
+2748,Star Wars,alternative country,alternative,alternative,True
+2748,Star Wars,alternative country,alternative,alternative,True
+2748,Star Wars,alternative country,country,alternative,False
+2748,Star Wars,alternative country,country,alternative,False
+2753,Born Into A Light,alternative country,alternative,pop,False
+2753,Born Into A Light,alternative country,country,pop,False
+2759,Crossed Out Name,alternative country,alternative,pop,False
+2759,Crossed Out Name,alternative country,country,pop,False
+2760,Natural Ghost,alternative country,alternative,pop,False
+2760,Natural Ghost,alternative country,country,pop,False
+2767,Jacksonville Skyline,alternative country,alternative,pop,False
+2767,Jacksonville Skyline,alternative country,country,pop,False
+2775,Crazy About You,alternative country,alternative,pop,False
+2775,Crazy About You,alternative country,country,pop,False
+2777,Easy Hearts,alternative country,alternative,pop,False
+2777,Easy Hearts,alternative country,country,pop,False
+2783,What May Seem Like Love,alternative country,alternative,country,False
+2783,What May Seem Like Love,alternative country,country,country,True
+2784,Faithless Street,alternative country,alternative,pop,False
+2784,Faithless Street,alternative country,country,pop,False
+2795,Empty Baseball Park - Album Version (Baseball Park Sessions),alternative country,alternative,alternative,True
+2795,Empty Baseball Park - Album Version (Baseball Park Sessions),alternative country,country,alternative,False
+2796,Here's To The Rest Of The World - Album Version (Baseball Park Sessions),alternative country,alternative,pop,False
+2796,Here's To The Rest Of The World - Album Version (Baseball Park Sessions),alternative country,country,pop,False
+2800,Inn Town,alternative country,alternative,pop,False
+2800,Inn Town,alternative country,country,pop,False
+2803,16 Days,alternative country,alternative,pop,False
+2803,16 Days,alternative country,country,pop,False
+2811,Somebody Remembers The Rose,alternative country,alternative,country,False
+2811,Somebody Remembers The Rose,alternative country,country,country,True
+2812,Not Home Anymore,alternative country,alternative,pop,False
+2812,Not Home Anymore,alternative country,country,pop,False
+2873,Pour Me,alternative metal,alternative,pop,False
+2873,Pour Me,alternative metal,metal,pop,False
+2918,Tribute,alternative metal,alternative,rock,False
+2918,Tribute,alternative metal,metal,rock,False
+2919,Live To Win,glam metal,metal,pop,False
+2929,Blow Me Away - Featuring Valora,alternative metal,alternative,alternative,True
+2929,Blow Me Away - Featuring Valora,alternative metal,metal,alternative,False
+3004,La petite fille de la mer - Remastered,cyberpunk,punk,classical,False
+3015,Let Down,alternative rock,alternative,rock,False
+3015,Let Down,alternative rock,rock,rock,True
+3016,We'll Never Have Sex,indie pop,indie,pop,False
+3016,We'll Never Have Sex,indie pop,pop,pop,True
+3018,"Chopin: Nocturne No. 20 in C-Sharp Minor, Op. Posth.",classical,classical,classical,True
+3020,I Wish I Knew How It Would Feel to Be Free,jazz blues,jazz,corrido,False
+3034,Convention,art pop,pop,pop,True
+3044,Autumn Serenade,brill building pop,pop,pop,True
+3045,Can't Take My Eyes Off You,indie rock,indie,pop,False
+3045,Can't Take My Eyes Off You,indie rock,rock,pop,False
+3065,Movin' Out (Anthony's Song),classic rock,rock,corrido,False
+3076,Waltz Op. 69 No. 2,classical,classical,classical,True
+3082,Holy Dances,baltimore indie,indie,pop,False
+3085,This Sound,alternative r&b,alternative,pop,False
+3085,This Sound,alternative r&b,r&b,pop,False
+3092,Free,pop,pop,r&b,False
+3108,Hate The Club (feat. Masego),dance pop,pop,pop,True
+3110,You're the One,contemporary r&b,r&b,corrido,False
+3121,Side Nigga,dance pop,pop,pop,True
+3131,Rain,contemporary r&b,r&b,pop,False
+3139,Stuck On You,pop,pop,pop,True
+3144,This Ain't Love,pop,pop,pop,True
+3149,Save Tonight,pop rock,pop,rock,False
+3149,Save Tonight,pop rock,rock,rock,True
+3151,Heaven Is a Halfpipe (If I Die),rap rock,rap,rock,False
+3151,Heaven Is a Halfpipe (If I Die),rap rock,rock,rock,True
+3157,Pieces,canadian pop punk,pop,alternative,False
+3157,Pieces,canadian pop punk,punk,alternative,False
+3160,Karma Police,alternative rock,alternative,rock,False
+3160,Karma Police,alternative rock,rock,rock,True
+3163,Bitter Sweet Symphony,alternative rock,alternative,rock,False
+3163,Bitter Sweet Symphony,alternative rock,rock,rock,True
+3167,Monkey Wrench,alternative metal,alternative,alternative,True
+3167,Monkey Wrench,alternative metal,metal,alternative,False
+3168,Snow [Hey Oh],alternative rock,alternative,anime,False
+3168,Snow [Hey Oh],alternative rock,rock,anime,False
+3172,Mr. Brightside,alternative rock,alternative,rock,False
+3172,Mr. Brightside,alternative rock,rock,rock,True
+3173,When You Were Young,alternative rock,alternative,metal,False
+3173,When You Were Young,alternative rock,rock,metal,False
+3175,You Only Live Once,alternative rock,alternative,alternative,True
+3175,You Only Live Once,alternative rock,rock,alternative,False
+3187,The Bad Touch,alternative metal,alternative,pop,False
+3187,The Bad Touch,alternative metal,metal,pop,False
+3190,Every Time I Look For You,pop punk,pop,alternative,False
+3190,Every Time I Look For You,pop punk,punk,alternative,False
+3201,Why Don't You Get a Job?,alternative metal,alternative,k-pop,False
+3201,Why Don't You Get a Job?,alternative metal,metal,k-pop,False
+3203,My Name Is Jonas,alternative rock,alternative,alternative,True
+3203,My Name Is Jonas,alternative rock,rock,alternative,False
+3204,No One Else,alternative rock,alternative,alternative,True
+3204,No One Else,alternative rock,rock,alternative,False
+3206,Undone - The Sweater Song,alternative rock,alternative,alternative,True
+3206,Undone - The Sweater Song,alternative rock,rock,alternative,False
+3216,Time After Time,neon pop punk,pop,alternative,False
+3216,Time After Time,neon pop punk,punk,alternative,False
+3218,Dragula,alternative metal,alternative,alternative,True
+3218,Dragula,alternative metal,metal,alternative,False
+3229,The Quiet Place,alternative metal,alternative,metal,False
+3229,The Quiet Place,alternative metal,metal,metal,True
+3241,Urine Speaks Louder Than Words,acoustic punk,punk,corrido,False
+3258,Meaningless,acoustic punk,punk,pop,False
+3265,It’s Nice To Have A Friend,pop,pop,pop,True
+3278,Boats & Birds (Demo Version),folk-pop,pop,pop,True
+3280,Shut Up Kiss Me,alternative americana,alternative,alternative,True
+3283,Tim I Wish You Were Born a Girl,alternative rock,alternative,corrido,False
+3283,Tim I Wish You Were Born a Girl,alternative rock,rock,corrido,False
+3287,Ghosting,indie pop,indie,pop,False
+3287,Ghosting,indie pop,pop,pop,True
+3292,Post Party Depression,acoustic punk,punk,bollywood,False
+3293,"Coffee, God, And Cigarettes",acoustic punk,punk,corrido,False
+3295,Fuck Shit Up (Whanana),acoustic punk,punk,alternative,False
+3296,Broadripple Is Burning,indie rock,indie,pop,False
+3296,Broadripple Is Burning,indie rock,rock,pop,False
+3299,Fuck Every Cop (Who Ever Did His Job),acoustic punk,punk,pop,False
+3382,Douce Ambiance,french jazz,jazz,filmi,False
+3407,Amarillo By Morning,contemporary country,country,rock,False
+3409,Hippies and Cowboys,modern southern rock,rock,pop,False
+3411,Must Be The Whiskey,modern southern rock,rock,pop,False
+3424,Where I'm From,canadian contemporary country,country,alternative,False
+3437,Get By,canadian contemporary country,country,pop,False
+3451,Single Man,alberta country,country,pop,False
+3457,Fearless (Taylor’s Version),pop,pop,pop,True
+3462,Don't Let Her,contemporary country,country,pop,False
+3465,Forever's Gotta Start Somewhere,canadian contemporary country,country,pop,False
+3471,Chapters,contemporary country,country,pop,False
+3472,Backseat Driver,country pop,country,pop,False
+3472,Backseat Driver,country pop,pop,pop,True
+3477,Six Feet Apart,contemporary country,country,pop,False
+3478,Jersey on the Wall - I'm Just Asking,alberta country,country,pop,False
+3480,Chasin' Me,country pop,country,pop,False
+3480,Chasin' Me,country pop,pop,pop,True
+3483,Shallow,contemporary country,country,pop,False
+3487,Thought About You,contemporary country,country,pop,False
+3493,Sangria,contemporary country,country,pop,False
+3610,Let's Meet In Spring,k-indie,indie,corrido,False
+3614,blue,chill r&b,r&b,pop,False
+3620,drunk,chill r&b,r&b,pop,False
+3624,Superhero,pop,pop,pop,True
+3627,all the kids are depressed,electropop,pop,pop,True
+3635,Syndrome,korean r&b,r&b,pop,False
+3636,Between,korean r&b,r&b,pop,False
+3638,comethru,electropop,pop,pop,True
+3643,La La Lost You - Acoustic Version,indonesian r&b,r&b,pop,False
+3646,Slow,korean r&b,r&b,pop,False
+3651,overdose,korean r&b,r&b,filmi,False
+3687,Lost Stars,k-pop,k-pop,pop,False
+3688,"always, i'll care",electropop,pop,pop,True
+3696,Moonlight,emo rap,rap,pop,False
+3702,Closer to the Truth,danish alternative rock,alternative,pop,False
+3702,Closer to the Truth,danish alternative rock,rock,pop,False
+3707,Blizzard,j-pop,pop,pop,True
+3712,ODD FUTURE,anime,anime,pop,False
+3713,In the End,alternative metal,alternative,alternative,True
+3713,In the End,alternative metal,metal,alternative,False
+3714,Numb / Encore,east coast hip hop,hip hop,pop,False
+3716,EXCITE,j-pop,pop,k-pop,False
+3726,asphyxia,anime,anime,alternative,False
+3728,Period,j-pop,pop,alternative,False
+3732,narrative,anime,anime,pop,False
+3740,だから、ひとりじゃない,j-pop,pop,pop,True
+3741,だってアタシのヒーロー。,anime,anime,anime,True
+3742,StarRingChild,anime,anime,pop,False
+3799,Ah-Choo,k-pop,k-pop,k-pop,True
+3800,Ah Yeah,k-pop,k-pop,k-pop,True
+3810,Anpanman,k-pop,k-pop,k-pop,True
+3815,Artist,k-pop,k-pop,hip hop,False
+3824,BERMUDA TRIANGLE,k-pop,k-pop,hip hop,False
+3826,Bing Bing,k-pop,k-pop,corrido,False
+3831,Bloom Bloom,k-pop,k-pop,pop,False
+3833,BOOM,k-pop,k-pop,pop,False
+3844,Can't Help Myself (feat. LOCO),k-pop,k-pop,k-pop,True
+3847,CHANGE UP,k-pop,k-pop,k-pop,True
+3854,Chocolate,k-pop,k-pop,pop,False
+3860,Crazy,k-pop,k-pop,k-pop,True
+3864,Crush,k-pop,k-pop,k-pop,True
+3865,D-1,k-pop,k-pop,pop,False
+3866,달라달라 DALLA DALLA,k-pop girl group,k-pop,pop,False
+3896,III. In the Old Castle,classical,classical,classical,True
+3907,"Piano Sonata No. 2 in F Major, K. 280: II. Adagio",classical,classical,classical,True
+3922,II. Adagio,classical,classical,classical,True
+3928,"Bagatelle No. 25 in A Minor, WoO 59 ""Für Elise""",classical,classical,classical,True
+3935,"6 Chorale Preludes, BV B 50: Herzlich tut mich verlangen, Op. 122/10",classical,classical,classical,True
+3939,"Mozart Adagio Variation (Piano Concerto No. 23 in A Minor, K. 488) - Mozart Recomposed",classical,classical,classical,True
+3954,Ritornello - Ed Carlsen Remix,neo-classical,classical,anime,False
+4000,Anti-Hero,pop,pop,pop,True
+4018,love nwantiti (ah ah ah),afro r&b,r&b,pop,False
+4023,Come With Me,canadian contemporary r&b,r&b,pop,False
+4027,Payroll (feat. Kranium),uk pop,pop,pop,True
+4062,momentary - choir version,bow pop,pop,classical,False
+4063,For Now I Am Winter - Nils Frahm Rework,bow pop,pop,classical,False
+4102,For Jóhann,classical piano,classical,classical,True
+4104,"Nocturne No.2 In E Flat, Op.9 No.2",classical,classical,classical,True
+4116,Autumn Moon on a Calm Lake,chinese classical,classical,classical,True
+4123,A Sense Of Symmetry - Day 7,bow pop,pop,classical,False
+4136,Fallin',hip pop,pop,pop,True
+4141,Halo,dance pop,pop,pop,True
+4145,The City's Yours,hip hop,hip hop,pop,False
+4147,Bad For Me (feat. Teddy Swims),dance pop,pop,pop,True
+4171,October Sky,alternative r&b,alternative,pop,False
+4171,October Sky,alternative r&b,r&b,pop,False
+4199,Perfectly Imperfect,pop,pop,pop,True
+4222,Your Song,dance pop,pop,pop,True
+4230,24K Magic,dance pop,pop,pop,True
+4231,Rockabye (feat. Sean Paul & Anne-Marie),dance pop,pop,pop,True
+4237,Heartbreak Anthem (with David Guetta & Little Mix),dance pop,pop,pop,True
+4245,"These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",dance pop,pop,pop,True
+4247,BED,dance pop,pop,pop,True
+4261,Girls on Film - 2010 Remaster,dance rock,rock,pop,False
+4268,Drive (feat. Wes Nelson),dance pop,pop,pop,True
+4290,Let's Dance - Single Version [Remastered],album rock,rock,rock,True
+4307,Wake Me Up - Radio Edit,dance pop,pop,pop,True
+4320,Feel It 2,dance pop,pop,pop,True
+4321,Piece Of Me (with LOVA),dance pop,pop,k-pop,False
+4330,Lovefool,dance pop,pop,pop,True
+4346,Jealous,indie poptimism,indie,pop,False
+4346,Jealous,indie poptimism,pop,pop,True
+4348,THE LONELIEST,indie rock italiano,indie,pop,False
+4348,THE LONELIEST,indie rock italiano,rock,pop,False
+4366,Forever,indie poptimism,indie,indie,True
+4366,Forever,indie poptimism,pop,indie,False
+4369,SOMEONE ELSE'S PROBLEM,australian alternative pop,alternative,corrido,False
+4369,SOMEONE ELSE'S PROBLEM,australian alternative pop,pop,corrido,False
+4378,Call Me By Your Name (feat. Melissa Horn),norwegian indie,indie,pop,False
+4385,Like It,danish pop,pop,pop,True
+4386,Every Beginning Ends,pop,pop,pop,True
+4391,I Went Hunting,folk-pop,pop,pop,True
+4392,Fair,dance pop,pop,pop,True
+4393,that way - with Jeremy Zucker,pop,pop,r&b,False
+4401,Always (feat. Philippine),irish pop,pop,pop,True
+4403,Selfish,australian alternative pop,alternative,pop,False
+4403,Selfish,australian alternative pop,pop,pop,True
+4405,Lie Again,pop,pop,pop,True
+4415,my slime,indie r&b,indie,pop,False
+4415,my slime,indie r&b,r&b,pop,False
+4436,Dance All Over Me - Acoustic,folk-pop,pop,pop,True
+4440,something worth working on,electropop,pop,pop,True
+4454,everyone at this party,dance pop,pop,country,False
+4462,Like U Do,nyc pop,pop,pop,True
+4479,Maroon,pop,pop,hip hop,False
+4486,Long Long Time,filmi,filmi,pop,False
+4497,TV,art pop,pop,pop,True
+4502,Die For You,canadian contemporary r&b,r&b,pop,False
+4509,Curse Your Fail,alternative rock,alternative,rock,False
+4509,Curse Your Fail,alternative rock,rock,rock,True
+4523,Slowing Down,modern rock,rock,punk,False
+4550,this is how you fall in love,electropop,pop,pop,True
+4663,Una Llamada Perdida,latin pop,pop,pop,True
+4681,Yo Quiero Ser,mexican pop,pop,rock,False
+4686,Con Un Botecito A Pecho,corrido,corrido,pop,False
+4727,Tu Retirada,latin arena pop,pop,pop,True
+4741,Los Caminos de la Vida - Spotify Singles,corrido,corrido,pop,False
+4765,Te Vas a Arrepentir,corrido,corrido,pop,False
+4816,HASTA LA MUERTE,corrido,corrido,pop,False
+4825,Junto A Tí,corridos tumbados,corrido,country,False
+4844,Diablo,corrido,corrido,corrido,True
+4846,Tu Lindo Corazon,corridos tumbados,corrido,rock,False
+4849,Era El Único,corridos tumbados,corrido,pop,False
+4856,El Dueño De Tu Amor,corridos tumbados,corrido,pop,False
+4866,Nos Pertenecemos,corridos tumbados,corrido,pop,False
+4867,24 Horas,corrido,corrido,bollywood,False
+4868,Tiempo,corridos tumbados,corrido,rock,False
+4873,Querido San Valentin,corrido,corrido,pop,False
+4876,komo llego el final,corridos tumbados,corrido,pop,False
+4889,Ella,corridos tumbados,corrido,pop,False
+4891,Recuerda,corrido,corrido,pop,False
+4896,Enamorado,corridos tumbados,corrido,jazz,False
+4898,Ya Acabo,corrido,corrido,corrido,True
+4899,Piel de Seda,corrido,corrido,pop,False
+4900,La Cancion,corridos tumbados,corrido,pop,False
+4903,Tu - Live,corrido,corrido,corrido,True
+4906,Perfecta En Mis Ojos,corrido,corrido,rock,False
+4915,La Única,corrido,corrido,pop,False
+4924,772 Love - Remix,corrido,corrido,pop,False
+4930,Está Noche,corrido,corrido,corrido,True
+4935,Ninguna Como Ella,corrido,corrido,corrido,True
+4937,God Is,chicago rap,rap,pop,False
+4950,Closer Than a Brother,acoustic pop,pop,punk,False
+5048,El Regio Traficante,corridos clasicos,corrido,corrido,True
+5054,Las Tres Tumbas,corridos clasicos,corrido,corrido,True
+5059,Pistoleros Famosos,corridos clasicos,corrido,corrido,True
+5062,Los Dos Amigos,corridos clasicos,corrido,corrido,True
+5092,Sigo Chambeando,corrido,corrido,corrido,True
+5099,Doble Llave,corrido,corrido,corrido,True
+5102,La Siembra En El Cerro,corrido,corrido,corrido,True
+5116,El Cigarrito Banado,corrido,corrido,corrido,True
+5132,Soy De Rancho,corrido,corrido,corrido,True
+5137,"En La Sierra Y En La Ciudad ""La China""",corrido,corrido,pop,False
+5154,Borracho Y Escandaloso,corrido,corrido,corrido,True
+5155,El Mini 6,corridos alternativos,corrido,pop,False
+5196,El Centenario,corrido,corrido,corrido,True
+5230,38 y Super,corrido,corrido,corrido,True
+5239,Radicamos En South Central,corrido,corrido,corrido,True
+5246,Maldito,corrido,corrido,pop,False
+5247,El Toro de Jalisco,corrido,corrido,corrido,True
+5255,El Jeffrey,corrido,corrido,corrido,True
+5262,Miami Vibe,corrido,corrido,corrido,True
+5265,Pacas Verdes,corrido,corrido,pop,False
+5271,Ya La Conecte,corrido,corrido,k-pop,False
+5277,El Drip,corrido,corrido,corrido,True
+5291,300 Locos,corrido,corrido,corrido,True
+5293,El Bighead,corrido,corrido,corrido,True
+5295,Acá en Guanajuato,corrido,corrido,corrido,True
+5296,No Ando En Disney,corrido,corrido,pop,False
+5298,Mi Porvenir,corrido,corrido,corrido,True
+5302,El Sereno,corrido,corrido,pop,False
+5306,Y Me la Paso,corrido,corrido,corrido,True
+5309,El Bélico,corrido,corrido,corrido,True
+5310,Viene Amaneciendo - En Vivo,corrido,corrido,hip hop,False
+5331,Mi Vida Cambió,corrido,corrido,hip hop,False
+5338,Sangre Avendaño,corrido,corrido,corrido,True
+5350,EL WALKS,corrido,corrido,corrido,True
+5354,Retorno a la Vida (En Vivo),corrido,corrido,pop,False
+5359,El del Corvette,corrido,corrido,corrido,True
+5373,Cuando Le Batallaba,corrido,corrido,corrido,True
+5374,Vamos Aclarando Muchas Cosas - En Vivo,corrido,corrido,corrido,True
+5395,300 Locos - En Vivo,corrido,corrido,corrido,True
+5397,El Vago De Los Nike,corrido,corrido,pop,False
+5398,Serafín Zambada,corrido,corrido,corrido,True
+5410,"Mandhuloda (From ""Sridevi Soda Center"")",filmi,filmi,pop,False
+5412,"Bad Boy (From ""Saaho"")",desi hip hop,hip hop,hip hop,True
+5443,Bhramaramba,filmi,filmi,corrido,False
+5444,Box Badhalai Poyi,filmi,filmi,pop,False
+5450,Yaar Azhaippadhu,tamil pop,pop,pop,True
+5462,High On Love,filmi,filmi,pop,False
+5471,"Kanne Kanne (From ""Ayogya"")",desi hip hop,hip hop,pop,False
+5500,"Pettara DJ (From ""Gaalodu"")",desi pop,pop,hip hop,False
+5511,"Ante Sundaraniki Promo Song (From ""Ante Sundaraniki"")",desi pop,pop,hip hop,False
+5523,Otha Thamarai - Original Soundtrack,tamil pop,pop,corrido,False
+5528,Evanda Enakku Custody,filmi,filmi,hip hop,False
+5530,"Naan Pizhai (From ""Kaathuvaakula Rendu Kaadhal"")",desi hip hop,hip hop,pop,False
+5540,Raavana,desi pop,pop,pop,True
+5544,Panjaa,filmi,filmi,k-pop,False
+5549,Jayaho Janatha,classic bollywood,bollywood,pop,False
+5576,Bengal Tiger,desi pop,pop,hip hop,False
+5589,Sye Raa,desi pop,pop,hip hop,False
+5618,Prapanchame Alaa,filmi,filmi,pop,False
+5648,Kanmani Nee Vara,filmi,filmi,rock,False
+5653,En Vaanilay,filmi,filmi,pop,False
+5667,Nirpathuve Nadapadhu,filmi,filmi,rock,False
+5668,Azhage Azhagu Deivathai,filmi,filmi,bollywood,False
+5683,Aagaya Vennilavae,filmi,filmi,filmi,True
+5696,Elangathu,desi pop,pop,pop,True
+5700,Oliyile Therivadhu,filmi,filmi,rock,False
+5723,Petha Manasu,filmi,filmi,filmi,True
+5745,"Naanga Vera Maari (From ""Valimai"")",filmi,filmi,pop,False
+5750,Maari Thara Local - Here Comes Maari,desi hip hop,hip hop,hip hop,True
+5752,Verithanam,filmi,filmi,hip hop,False
+5760,"Breakup Song - From ""Naan Sirithal""",desi hip hop,hip hop,k-pop,False
+5766,Local Boys,desi hip hop,hip hop,pop,False
+5780,Kuchi Mittai,tamil pop,pop,corrido,False
+5781,Oru Porambokku,filmi,filmi,corrido,False
+5787,Damaalu Dumeelu,filmi,filmi,hip hop,False
+5796,Jhoot Bole Kauva Kate,classic bollywood,bollywood,bollywood,True
+5804,Piya Samaye,classic pakistani pop,pop,bollywood,False
+5807,Main Matti Ka Gudda Tu Sone Ki Gudiya,classic bollywood,bollywood,bollywood,True
+5808,Lambuji Lambuji - Coolie / Soundtrack Version,classic bollywood,bollywood,bollywood,True
+5840,Kate Nahin Kat Te,classic bollywood,bollywood,bollywood,True
+5882,Balam Pichkari,filmi,filmi,pop,False
+5905,"Dil Sachaa Aur Chehra Jhutha - From ""Sachaa Jhutha""",classic bollywood,bollywood,filmi,False
+5911,Yeh Hai Bambai Nagaria,classic bollywood,bollywood,bollywood,True
+5912,Kahin Deep Jale Kahin Dil,classic bollywood,bollywood,jazz,False
+5922,Maar Diya Jaye - Mera Gaon Mera Desh / Soundtrack Version,classic bollywood,bollywood,bollywood,True
+5923,Kahin Pe Nighahen Kahin Pe Nishana,classic bollywood,bollywood,filmi,False
+5972,Tum Mile - Lofi Flip,desi pop,pop,punk,False
+5979,Hosanna - Lofi Flip,modern bollywood,bollywood,pop,False
+5986,Aapke Pyaar Mein (Lofi Mix),classic bollywood,bollywood,pop,False
+5988,Kyon - Lofi Flip,desi pop,pop,pop,True
+6042,Tere Mere Honthon Pe,classic bollywood,bollywood,bollywood,True
+6060,"Mere Dost Kissa Ye Kya Ho Gaya - From ""Dostana""",classic bollywood,bollywood,bollywood,True
+6066,Mujhko Yeh Zindagi Lagti Hai,classic bollywood,bollywood,classical,False
+6070,Pehli Nazar Men Humne Apna Dil,classic bollywood,bollywood,bollywood,True
+6082,O Bahena - Sad Version,classic bollywood,bollywood,bollywood,True
+6097,Rang Jamake Jayenge - Naseeb / Soundtrack Version,classic bollywood,bollywood,bollywood,True
+6099,Aye Watan Tere Liye,classic bollywood,bollywood,bollywood,True
+6132,"Jooma Chumma De De, Pt. 3",classic bollywood,bollywood,bollywood,True
+6142,O O Jaane Jaana,classic bollywood,bollywood,bollywood,True
+6160,Pehli Baar Mile Hain,filmi,filmi,bollywood,False
+6162,Mera Chand Mujhe Aaya Hai Nazar,classic bollywood,bollywood,rock,False
+6189,Bunty Aur Babli 2,desi pop,pop,pop,True
+6192,"Raataan Chill Mix - Spotify Singles (Tanishk Bagchi, Jubin Nautiyal, Hanita Bhambri)",desi pop,pop,pop,True
+6197,"Chura Ke Dil Mera - From ""Hungama 2""",desi pop,pop,pop,True
+6205,Ghar Aaya Mera Pardesi,desi hip hop,hip hop,k-pop,False
+6215,"So Gaya Yeh Jahan (From ""Bypass Road"")",classic bollywood,bollywood,corrido,False
+6235,Gulabi 2.0,desi pop,pop,pop,True
+6267,Kaahe Kanha,gujarati pop,pop,pop,True
+6284,Shafqat with Shafqat (Lakh Jatan / Khamaj),classic pakistani pop,pop,bollywood,False
+6302,Piya: Basant Mukhari,modern bollywood,bollywood,bollywood,True
+6308,Kahaani,hindi indie,indie,pop,False
+6316,Sagariya,hindi indie,indie,alternative,False
+6320,Hans Dhuni,pakistani pop,pop,pop,True
+6343,Baras,hindi indie,indie,pop,False
+6344,Naina Bawre,desi pop,pop,bollywood,False
+6384,Alhaiya in France,hindustani classical,classical,punk,False
+6393,RAGA SAHASRADEEP,hindustani classical,classical,classical,True
+6410,Hem Bihag - A Creation Of Acharya Allanddin Khan - Alap & Jor,hindustani classical,classical,classical,True
+6419,Misra Mand,hindustani classical,classical,jazz,False
+6422,Sub Pop Rock City - Remastered,alternative metal,alternative,alternative,True
+6422,Sub Pop Rock City - Remastered,alternative metal,metal,alternative,False
+6431,In 'n' Out of Grace,alternative rock,alternative,rock,False
+6431,In 'n' Out of Grace,alternative rock,rock,rock,True
+6441,Shove,alternative rock,alternative,punk,False
+6441,Shove,alternative rock,rock,punk,False
+6443,About A Girl - Remastered,alternative rock,alternative,alternative,True
+6443,About A Girl - Remastered,alternative rock,rock,alternative,False
+6444,High Command,dark jazz,jazz,anime,False
+6460,Hunted Down - Remastered,alternative metal,alternative,punk,False
+6460,Hunted Down - Remastered,alternative metal,metal,punk,False
+6462,Love the One You're With,blues rock,rock,rock,True
+6473,White Room,album rock,rock,pop,False
+6475,Casey Jones - 2013 Remaster,classic rock,rock,corrido,False
+6494,Sunday Bloody Sunday - Remastered 2008,irish rock,rock,bollywood,False
+6509,California Dreamin',baroque pop,pop,rock,False
+6513,I Want to Know What Love Is - 1999 Remaster,album rock,rock,pop,False
+6527,Venus,dance pop,pop,alternative,False
+6532,Don't You (Forget About Me),art rock,rock,rock,True
+6549,Wake Me Up Before You Go-Go,dance pop,pop,rock,False
+6550,Drive,album rock,rock,rock,True
+6554,Land of Confusion - 2007 Remaster,album rock,rock,rock,True
+6556,Avalon,album rock,rock,filmi,False
+6565,Back on the Chain Gang - 2007 Remaster,album rock,rock,rock,True
+6593,The Joker,album rock,rock,corrido,False
+6594,The Spirit Of Radio,album rock,rock,rock,True
+6601,Fiddler's Green,canadian indie,indie,pop,False
+6605,Give A Little Bit,album rock,rock,rock,True
+6610,Find My Way,album rock,rock,pop,False
+6620,Layla,album rock,rock,jazz,False
+6622,The Boys Are Back In Town,album rock,rock,rock,True
+6624,Dancing Queen,europop,pop,rock,False
+6630,You Ain't Seen Nothing Yet,album rock,rock,rock,True
+6635,Free Fallin',album rock,rock,rock,True
+6639,Hot Child In The City - (Pre-Order Exclusive),classic canadian rock,rock,pop,False
+6647,Dreadlock Holiday,album rock,rock,corrido,False
+6650,Moondance - 2013 Remaster,classic rock,rock,pop,False
+6651,We're An American Band - Remastered 2002,album rock,rock,rock,True
+6671,Mr. Blue Sky,album rock,rock,pop,False
+6678,The Pretender,alternative metal,alternative,metal,False
+6678,The Pretender,alternative metal,metal,metal,True
+6681,Carry on Wayward Son,album rock,rock,rock,True
+6691,Starseed,alternative metal,alternative,alternative,True
+6691,Starseed,alternative metal,metal,alternative,False
+6694,Brown Eyed Girl,classic rock,rock,rock,True
+6701,Burnin' for You,album rock,rock,rock,True
+6702,Drive,alternative metal,alternative,rock,False
+6702,Drive,alternative metal,metal,rock,False
+6711,Innocent,alternative metal,alternative,alternative,True
+6711,Innocent,alternative metal,metal,alternative,False
+6717,Oh Sherrie,album rock,rock,pop,False
+6722,Me and Bobby McGee,blues rock,rock,rock,True
+6731,Seven Nation Army,alternative rock,alternative,hip hop,False
+6731,Seven Nation Army,alternative rock,rock,hip hop,False
+6737,Laughing,album rock,rock,rock,True
+6743,Turn Me Loose,album rock,rock,rock,True
+6748,Peace of Mind,album rock,rock,rock,True
+6749,I Want You to Want Me,album rock,rock,filmi,False
+6750,Born to Run,classic rock,rock,alternative,False
+6753,I Miss You,pop punk,pop,alternative,False
+6753,I Miss You,pop punk,pop,alternative,False
+6753,I Miss You,pop punk,punk,alternative,False
+6753,I Miss You,pop punk,punk,alternative,False
+6765,Walking On A Dream,alternative dance,alternative,pop,False
+6768,First Date,pop punk,pop,alternative,False
+6768,First Date,pop punk,punk,alternative,False
+6769,Renegades,modern alternative rock,alternative,alternative,True
+6769,Renegades,modern alternative rock,rock,alternative,False
+6787,Smooth Criminal,alternative metal,alternative,pop,False
+6787,Smooth Criminal,alternative metal,metal,pop,False
+6793,Cigarette Daydreams,modern rock,rock,pop,False
+6795,Blurry,alternative metal,alternative,alternative,True
+6795,Blurry,alternative metal,alternative,alternative,True
+6795,Blurry,alternative metal,metal,alternative,False
+6795,Blurry,alternative metal,metal,alternative,False
+6799,She Keeps Me Up,alternative metal,alternative,pop,False
+6799,She Keeps Me Up,alternative metal,alternative,pop,False
+6799,She Keeps Me Up,alternative metal,metal,pop,False
+6799,She Keeps Me Up,alternative metal,metal,pop,False
+6806,Crystals,folk-pop,pop,pop,True
+6807,Love Is Mystical,alternative rock,alternative,alternative,True
+6807,Love Is Mystical,alternative rock,rock,alternative,False
+6817,Against The Wind,album rock,rock,pop,False
+6820,Hysteria - Remastered 2017,album rock,rock,pop,False
+6848,Video Killed The Radio Star,early synthpop,pop,rock,False
+6868,Hit Me With Your Best Shot - 1999 Digital Remaster,album rock,rock,pop,False
+6879,Rosa Parks,atl hip hop,hip hop,hip hop,True
+6880,What You Want (feat. Total),gangster rap,rap,hip hop,False
+6883,The Rain (Supa Dupa Fly),dance pop,pop,hip hop,False
+6894,Welcome Back,gangster rap,rap,hip hop,False
+6897,The World Is Yours,conscious hip hop,hip hop,hip hop,True
+6898,Hip Hop Hooray,east coast hip hop,hip hop,rock,False
+6902,Cause I Can Do It Right,east coast hip hop,hip hop,rock,False
+6906,Put Your Hands Where My Eyes Could See,east coast hip hop,hip hop,hip hop,True
+6907,"It's All About the Benjamins (feat. The Notorious B.I.G., Lil' Kim & The Lox) - Remix",dance pop,pop,hip hop,False
+6908,Work It,dance pop,pop,hip hop,False
+6909,Rump Shaker,hip hop,hip hop,hip hop,True
+6926,Baby Got Back,gangster rap,rap,hip hop,False
+6937,Just a Friend,east coast hip hop,hip hop,hip hop,True
+6939,Got Your Money (feat. Kelis),alternative hip hop,alternative,hip hop,False
+6939,Got Your Money (feat. Kelis),alternative hip hop,hip hop,hip hop,True
+6942,Gone Till November (feat. The New York Philharmonic Orchestra),rap kreyol,rap,pop,False
+6950,The Choice Is Yours (Revisited),alternative hip hop,alternative,hip hop,False
+6950,The Choice Is Yours (Revisited),alternative hip hop,hip hop,hip hop,True
+6953,Big Poppa - 2005 Remaster,east coast hip hop,hip hop,hip hop,True
+6959,No Air (feat. Chris Brown),dance pop,pop,pop,True
+6962,Like a Boy,dance pop,pop,pop,True
+6963,Shake It,electropowerpop,pop,pop,True
+6976,Get the Party Started,dance pop,pop,pop,True
+6977,Love Don't Cost a Thing,dance pop,pop,pop,True
+6979,Beautiful,dance pop,pop,pop,True
+6985,Love in This Club (feat. Young Jeezy),atl hip hop,hip hop,pop,False
+6989,I Don't Want to Be,acoustic pop,pop,alternative,False
+6997,U Remind Me,atl hip hop,hip hop,pop,False
+6998,Lose My Breath,dance pop,pop,pop,True
+7011,Single Ladies (Put a Ring on It),dance pop,pop,rap,False
+7025,Circus,dance pop,pop,pop,True
+7026,Smells Like Teen Spirit,alternative rock,alternative,alternative,True
+7026,Smells Like Teen Spirit,alternative rock,rock,alternative,False
+7035,No Rain,alternative metal,alternative,pop,False
+7035,No Rain,alternative metal,alternative,pop,False
+7035,No Rain,alternative metal,metal,pop,False
+7035,No Rain,alternative metal,metal,pop,False
+7036,Pretty Fly (For A White Guy),alternative metal,alternative,pop,False
+7036,Pretty Fly (For A White Guy),alternative metal,alternative,pop,False
+7036,Pretty Fly (For A White Guy),alternative metal,metal,pop,False
+7036,Pretty Fly (For A White Guy),alternative metal,metal,pop,False
+7038,Bullet With Butterfly Wings - Remastered 2012,alternative metal,alternative,punk,False
+7038,Bullet With Butterfly Wings - Remastered 2012,alternative metal,metal,punk,False
+7040,Bound For The Floor,alternative metal,alternative,pop,False
+7040,Bound For The Floor,alternative metal,metal,pop,False
+7047,Low,alternative country,alternative,alternative,True
+7047,Low,alternative country,country,alternative,False
+7051,The Kids Aren't Alright,alternative metal,alternative,alternative,True
+7051,The Kids Aren't Alright,alternative metal,metal,alternative,False
+7061,Laid,britpop,pop,alternative,False
+7067,If You Could Only See,alternative rock,alternative,alternative,True
+7067,If You Could Only See,alternative rock,rock,alternative,False
+7069,Sex & Candy,alternative rock,alternative,pop,False
+7069,Sex & Candy,alternative rock,rock,pop,False
+7079,Jane Says,alternative metal,alternative,rock,False
+7079,Jane Says,alternative metal,metal,rock,False
+7080,The Way,pop rock,pop,rock,False
+7080,The Way,pop rock,rock,rock,True
+7091,Stacy's Mom,alternative rock,alternative,pop,False
+7091,Stacy's Mom,alternative rock,rock,pop,False
+7093,El Scorcho,alternative rock,alternative,pop,False
+7093,El Scorcho,alternative rock,rock,pop,False
+7096,Ridiculous Thoughts,irish rock,rock,rock,True
+7097,Creep,alternative rock,alternative,alternative,True
+7097,Creep,alternative rock,rock,alternative,False
+7117,London Bridge,dance pop,pop,hip hop,False
+7119,Poker Face,art pop,pop,pop,True
+7120,Stronger,chicago rap,rap,pop,False
+7121,Wavin' Flag,pop rap,pop,pop,True
+7121,Wavin' Flag,pop rap,rap,pop,False
+7123,It Wasn't Me,pop rap,pop,pop,True
+7123,It Wasn't Me,pop rap,pop,pop,True
+7123,It Wasn't Me,pop rap,rap,pop,False
+7123,It Wasn't Me,pop rap,rap,pop,False
+7124,Grace Kelly,europop,pop,pop,True
+7127,Don't Cha,dance pop,pop,pop,True
+7147,Beautiful,dance pop,pop,pop,True
+7149,Miss Independent,dance pop,pop,corrido,False
+7153,Survivor,dance pop,pop,hip hop,False
+7154,Replay,dance pop,pop,pop,True
+7157,Unwritten,dance pop,pop,pop,True
+7162,Luxurious,dance pop,pop,pop,True
+7166,Pretty Boy Swag,atl hip hop,hip hop,hip hop,True
+7178,Rap God,detroit hip hop,hip hop,hip hop,True
+7213,There It Go (The Whistle Song),gangster rap,rap,hip hop,False
+7215,Be Happy,dance pop,pop,rock,False
+7224,Who's That Girl?,dance pop,pop,hip hop,False
+7228,Pimpin' All Over The World,atl hip hop,hip hop,hip hop,True
+7260,Thong Song,contemporary r&b,r&b,rock,False
+7269,Say You'll Be There,dance pop,pop,pop,True
+7273,Breakfast At Tiffany's,pop rock,pop,pop,True
+7273,Breakfast At Tiffany's,pop rock,rock,pop,False
+7279,Torn,dance pop,pop,rock,False
+7304,Steal My Sunshine - Single Version,canadian rock,rock,filmi,False
+7393,Reflection,neo-classical,classical,jazz,False
+7408,Big Ben,cali rap,rap,pop,False
+7411,Blockchain,memphis hip hop,hip hop,pop,False
+7412,Toolie,hip hop,hip hop,rap,False
+7416,Again (feat. E-40 & LaRussell),asian american hip hop,hip hop,rap,False
+7437,Dopamine Freestyle,aesthetic rap,rap,k-pop,False
+7468,MURDA,canadian hip hop,hip hop,pop,False
+7474,Lottery (Renegade),atl hip hop,hip hop,hip hop,True
+7475,One Minute (feat. Kanye West & Travis Barker),emo rap,rap,pop,False
+7488,Can't Stop Won't Stop (feat. Kodak Black),cali rap,rap,hip hop,False
+7490,The Ending,alternative metal,alternative,pop,False
+7490,The Ending,alternative metal,metal,pop,False
+7491,This Is Mongol,mongolian alternative,alternative,pop,False
+7506,Idol (feat. Tech N9ne),alternative metal,alternative,hip hop,False
+7506,Idol (feat. Tech N9ne),alternative metal,metal,hip hop,False
+7518,If Tomorrow Never Comes,alternative metal,alternative,metal,False
+7518,If Tomorrow Never Comes,alternative metal,metal,metal,True
+7523,Somewhat Damaged,alternative metal,alternative,pop,False
+7523,Somewhat Damaged,alternative metal,metal,pop,False
+7526,Football Season is Over,melodic metalcore,metal,metal,True
+7530,Inside Out,alternative metal,alternative,metal,False
+7530,Inside Out,alternative metal,metal,metal,True
+7534,Never Gonna Learn,melodic metalcore,metal,alternative,False
+7541,Darkness Settles In,alternative metal,alternative,metal,False
+7541,Darkness Settles In,alternative metal,metal,metal,True
+7543,Help,alternative metal,alternative,metal,False
+7543,Help,alternative metal,metal,metal,True
+7548,Sad But True,mongolian alternative,alternative,metal,False
+7554,Not My Problem (feat. Travis Barker),alternative metal,alternative,alternative,True
+7554,Not My Problem (feat. Travis Barker),alternative metal,metal,alternative,False
+7555,Shotgun Blues,alternative metal,alternative,rock,False
+7555,Shotgun Blues,alternative metal,metal,rock,False
+7557,Wolf Totem (feat. Jacoby Shaddix of Papa Roach),mongolian alternative,alternative,anime,False
+7559,Born For Greatness,alternative metal,alternative,pop,False
+7559,Born For Greatness,alternative metal,metal,pop,False
+7560,Killing Me Slowly,alternative metal,alternative,alternative,True
+7560,Killing Me Slowly,alternative metal,metal,alternative,False
+7565,Right Now,conscious hip hop,hip hop,pop,False
+7577,All Out Life,alternative metal,alternative,metal,False
+7577,All Out Life,alternative metal,metal,metal,True
+7578,Torn in Two,alternative metal,alternative,metal,False
+7578,Torn in Two,alternative metal,metal,metal,True
+7583,Elevate,alternative metal,alternative,pop,False
+7583,Elevate,alternative metal,metal,pop,False
+7606,Come and Dance with Me,jazz vibraphone,jazz,classical,False
+7606,Come and Dance with Me,jazz vibraphone,rap,classical,False
+7615,Hope in Azania,experimental jazz,jazz,anime,False
+7619,Ahmed,british jazz,jazz,jazz,True
+7620,Song for Dub,contemporary jazz,jazz,jazz,True
+7645,A Path Through the Noise,jazz,jazz,pop,False
+7650,Carolyn (In the Morning),jazz brass,jazz,classical,False
+7668,Letter 4 Brad - Bonus Track,jazz caraibes,jazz,pop,False
+7685,Walking On Sunshine,channel pop,pop,corrido,False
+7688,True Colours,chill pop,pop,pop,True
+7706,Dancing in the Moonlight - Acoustic,channel pop,pop,corrido,False
+7734,Shape of You - Acoustic,pop,pop,corrido,False
+7747,How Will I Know,dance pop,pop,pop,True
+7764,All I Want,pop soul,pop,pop,True
+7772,Higher Love,indie folk,indie,pop,False
+7789,Falling,art pop,pop,classical,False
+7795,Sweet dream,neo-classical,classical,classical,True
+7814,Like A Circle,indie anthem-folk,indie,pop,False
+7844,I Know,experimental r&b,r&b,pop,False
+7846,Explain It To Me,boston indie,indie,pop,False
+7856,Sunrise,chill pop,pop,pop,True
+7870,What a Wonderful World (with Eva Cassidy),uk pop,pop,pop,True
+7874,Bewitched,alternative country,alternative,jazz,False
+7874,Bewitched,alternative country,country,jazz,False
+7884,Up Up & Away,hip hop,hip hop,pop,False
+7885,Animal,pop,pop,rap,False
+7904,Touch The Sky,chicago rap,rap,hip hop,False
+7914,Harmony Hall,baroque pop,pop,pop,True
+7921,Breathe,dance pop,pop,pop,True
+7970,Heyy,atl hip hop,hip hop,hip hop,True
+7977,Treesha,melodic rap,rap,rap,True
+7982,Major Distribution,canadian hip hop,hip hop,hip hop,True
+7984,Falsetto (feat. Lil Tecca),rap,rap,hip hop,False
+7990,N95,conscious hip hop,hip hop,pop,False
+7999,Starlight,uk hip hop,hip hop,hip hop,True
+8021,Flossin’ (feat. YoungBoy Never Broke Again),rap,rap,hip hop,False
+8030,What A Life,detroit hip hop,hip hop,pop,False
+8046,HAD TO,canadian hip hop,hip hop,rap,False
+8047,Betrayal (feat. Drake),melodic rap,rap,hip hop,False
+8114,GodLovesUgly - Remix,alternative hip hop,alternative,punk,False
+8114,GodLovesUgly - Remix,alternative hip hop,hip hop,punk,False
+8123,Robbery Part 4,detroit hip hop,hip hop,hip hop,True
+8124,Pain & Strife (feat. Offset),alternative hip hop,alternative,rap,False
+8124,Pain & Strife (feat. Offset),alternative hip hop,hip hop,rap,False
+8136,Hard in Da Paint,atl hip hop,hip hop,pop,False
+8156,Hot (feat. Gunna),atl hip hop,hip hop,hip hop,True
+8157,JU$T (feat. Pharrell Williams & Zack de la Rocha),alternative hip hop,alternative,rap,False
+8157,JU$T (feat. Pharrell Williams & Zack de la Rocha),alternative hip hop,hip hop,rap,False
+8166,Today (feat. Gunna),dmv rap,rap,hip hop,False
+8175,Yung Nigga Shit (feat. YNW Gunna & Hotboii),melodic rap,rap,hip hop,False
+8183,ROCKSTAR (feat. Roddy Ricch),north carolina hip hop,hip hop,hip hop,True
