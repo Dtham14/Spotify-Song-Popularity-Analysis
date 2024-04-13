@@ -1,4 +1,4 @@
-# Readme
+# Spotify Song Popularity Analysis 
 
 This repository contains data, scripts, and notebooks for analyzing playlist data and generating genre classification models.
 
